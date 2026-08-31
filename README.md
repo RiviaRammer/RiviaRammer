@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Embedded Engineer & Radio Astronomy Researcher</b><br/>
-  ESP32 / STM32 · RFSoC · PCB
+  ESP32 · RFSoC · PCB
 </p>
 
 <p align="center">
